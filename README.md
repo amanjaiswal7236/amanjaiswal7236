@@ -2,8 +2,6 @@
 
 **`Digital Craftsman (Student/Developer)`**
 
-Absolutely, here's the updated version without the content creation part:
-
 "I'm a BTech IT student with a passion for full-stack development. I'm actively crafting my vision of the digital world, taking each step meticulously. My coding projects are rooted in comprehensive processes, starting from meticulous planning and design, and extending to the application of code to solve real-life problems. Every project is a journey, and I'm dedicated to honing my skills as I progress through my IT studies."
 
    <p align="left">
