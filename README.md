@@ -1,14 +1,16 @@
 # 🏄‍♂️ Aman Jaiswal
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Student/Developer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Absolutely, here's the updated version without the content creation part:
+
+"I'm a BTech IT student with a passion for full-stack development. I'm actively crafting my vision of the digital world, taking each step meticulously. My coding projects are rooted in comprehensive processes, starting from meticulous planning and design, and extending to the application of code to solve real-life problems. Every project is a journey, and I'm dedicated to honing my skills as I progress through my IT studies."
 
    <p align="left">
-      <a href="http://www.youtube.com/@amanjaiswal7630">
+    <!--  <a href="http://www.youtube.com/@amanjaiswal7630">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="http://www.youtube.com/@amanjaiswal7630">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  -->
       <a href="https://github.com/amanjaiswal7236">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/amanjaiswal7236?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/amanjaiswal7236?tab=repositories&sort=stargazers">
